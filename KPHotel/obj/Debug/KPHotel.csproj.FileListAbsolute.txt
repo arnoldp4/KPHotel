@@ -1,0 +1,12 @@
+c:\users\arn4lt\documents\visual studio 2015\Projects\KPHotel\KPHotel\bin\Debug\KPHotel.exe.config
+c:\users\arn4lt\documents\visual studio 2015\Projects\KPHotel\KPHotel\obj\Debug\KPHotel.csprojResolveAssemblyReference.cache
+c:\users\arn4lt\documents\visual studio 2015\Projects\KPHotel\KPHotel\obj\Debug\KPHotel.Properties.Resources.resources
+c:\users\arn4lt\documents\visual studio 2015\Projects\KPHotel\KPHotel\obj\Debug\KPHotel.csproj.GenerateResource.Cache
+c:\users\arn4lt\documents\visual studio 2015\Projects\KPHotel\KPHotel\bin\Debug\KPHotel.exe
+c:\users\arn4lt\documents\visual studio 2015\Projects\KPHotel\KPHotel\bin\Debug\KPHotel.pdb
+c:\users\arn4lt\documents\visual studio 2015\Projects\KPHotel\KPHotel\obj\Debug\KPHotel.LoginForm.resources
+c:\users\arn4lt\documents\visual studio 2015\Projects\KPHotel\KPHotel\obj\Debug\KPHotel.MasterForm.resources
+c:\users\arn4lt\documents\visual studio 2015\Projects\KPHotel\KPHotel\obj\Debug\KPHotel.exe
+c:\users\arn4lt\documents\visual studio 2015\Projects\KPHotel\KPHotel\obj\Debug\KPHotel.pdb
+c:\users\arn4lt\documents\visual studio 2015\Projects\KPHotel\KPHotel\obj\Debug\KPHotel.MasterUser.resources
+C:\Users\arn4lt\documents\visual studio 2015\Projects\KPHotel\KPHotel\obj\Debug\KPHotel.EditForm.resources
